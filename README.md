@@ -1,4 +1,4 @@
-# 📋 Attendance Checker (Python)
+# 📋 Attendance tracker (Python)
 
 ## 📌 About the Project
 
