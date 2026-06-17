@@ -55,7 +55,6 @@ while True:
 
 
     sheet.cell(row=row_number, column=date_column).value = attendance
-
     file.save("book2.xlsx")
     print("Attendance marked successfully!")
 
